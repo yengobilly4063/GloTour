@@ -4,8 +4,8 @@
 ### NPM
 * Please download and install nmp(for your specific OS) from https://nodejs.org/en/download/
 
-###Code Editor
-PLease download and install a code editor. I prefere Visial Studio code.
+### Code Editor
+* PLease download and install a code editor. I prefere Visial Studio code.
 * https://code.visualstudio.com/download
 
 ### Download/Clone project from repository
